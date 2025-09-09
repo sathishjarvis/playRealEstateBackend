@@ -1,5 +1,5 @@
 # playRealEstateBackend
 ## Run backend
-cd backend
-npm install
-npm start
+## cd backend
+## npm install
+## npm start
